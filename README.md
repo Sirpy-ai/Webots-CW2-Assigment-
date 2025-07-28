@@ -3,8 +3,8 @@
 ## 📘 Module: Artificial Intelligence Principles (ARAIP)
 **Assignment Title**: Webots Simulation File Creation and Setup  
 **Submission**: CW2  
-**Student**: [Your Name]  
-**Institution**: [Your College / University Name]  
+**Student**: Selvarajan Sirpy 
+**Institution**: University OF Hertforshire 
 **Date**: July 2025
 
 ---
